@@ -1,0 +1,80 @@
+INTERNSHIP ROADMAP
+==================
+
+Goal
+----
+Build the skills, projects, and professional habits needed to secure and succeed in a software engineering internship.
+
+Phase 1: Foundations (Weeks 1-4)
+---------------------------------
+- Choose a primary language: Python, JavaScript/TypeScript, Java, or Java.
+- Review variables, control flow, functions, data structures, error handling, and object-oriented programming.
+- Learn Git and GitHub: commits, branches, pull requests, issues, and README files.
+- Practice problem solving with 3-5 coding problems each week.
+- Set up a professional development environment and consistent study schedule.
+
+Phase 2: Core Computer Science (Weeks 5-8)
+-------------------------------------------
+- Study arrays, strings, hash maps, stacks, queues, linked lists, trees, graphs, and sorting/searching.
+- Learn basic time and space complexity using Big-O notation.
+- Practice debugging, testing, and writing readable code.
+- Complete at least 20 additional coding problems and document lessons learned.
+
+Phase 3: Development Skills (Weeks 9-12)
+----------------------------------------
+- Learn HTTP, REST APIs, JSON, databases, authentication, and basic security.
+- Build one small full-stack or backend project.
+- Add automated tests, input validation, logging, and clear documentation.
+- Deploy the project and publish the source code on GitHub.
+
+Phase 4: Portfolio Projects (Weeks 13-16)
+-----------------------------------------
+Complete two or three projects that demonstrate practical skills:
+- A CRUD application using a database.
+- An API or automation tool.
+- A project related to a personal interest or a real-world problem.
+
+For every project, include:
+- A concise README with setup instructions.
+- Screenshots or a demo link.
+- Technology choices and design notes.
+- Tests and examples of expected behavior.
+- A short section describing challenges and future improvements.
+
+Phase 5: Career Preparation (Weeks 17-20)
+------------------------------------------
+- Create a one-page resume focused on measurable results and relevant skills.
+- Update LinkedIn and GitHub profiles with consistent information.
+- Prepare a 30-second introduction and project explanations.
+- Practice behavioral interview questions using the STAR method.
+- Review common technical interview topics and complete timed practice sessions.
+
+Phase 6: Applications and Networking (Weeks 21+)
+-------------------------------------------------
+- Create a list of target companies and internship roles.
+- Apply early and track applications, contacts, deadlines, and outcomes.
+- Customize the resume and short introduction for each role.
+- Attend university, community, and online career events.
+- Ask for feedback from mentors, instructors, and peers.
+- Continue improving projects and solving problems while applying.
+
+Weekly Routine
+--------------
+- 3 sessions: coding and data structures practice.
+- 2 sessions: project development.
+- 1 session: computer science or system fundamentals.
+- 1 session: resume, networking, applications, or interview practice.
+- End each week by recording accomplishments, blockers, and next steps.
+
+Internship Readiness Checklist
+------------------------------
+[ ] Public GitHub profile with meaningful repositories
+[ ] Two or more completed and documented projects
+[ ] One-page resume reviewed by another person
+[ ] Basic data structures and algorithms practice completed
+[ ] Comfortable explaining technical decisions
+[ ] Familiar with Git, testing, APIs, and databases
+[ ] Practiced behavioral and technical interviews
+[ ] Application tracker created
+[ ] References or mentors identified
+[ ] Consistent learning and application schedule established
